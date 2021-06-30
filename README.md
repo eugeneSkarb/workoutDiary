@@ -1,4 +1,4 @@
-# geka
+# practice
 
 ## Project setup
 ```
